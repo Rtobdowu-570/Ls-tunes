@@ -353,7 +353,7 @@ body {
   }
 
   @media(max-height:5800px){
-    #shocase p .lead{
+    #showcase p .lead{
         display: none;
     }
   }
